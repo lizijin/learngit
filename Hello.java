@@ -13,4 +13,8 @@ public class Hello{
     public void date(){
         
     }
+    
+    public void dinner(){
+        
+    }
 }
